@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		884F12A42B16124D008F1A73 /* SyncOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F12A32B16124D008F1A73 /* SyncOperations.swift */; };
+		884F12A62B16150B008F1A73 /* ConcurrentSyncOpeartion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F12A52B16150B008F1A73 /* ConcurrentSyncOpeartion.swift */; };
 		88DF74762B15D804001D0BB0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DF74752B15D804001D0BB0 /* AppDelegate.swift */; };
 		88DF74782B15D804001D0BB0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DF74772B15D804001D0BB0 /* SceneDelegate.swift */; };
 		88DF747A2B15D804001D0BB0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DF74792B15D804001D0BB0 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		884F12A32B16124D008F1A73 /* SyncOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SyncOperations.swift; sourceTree = "<group>"; };
+		884F12A52B16150B008F1A73 /* ConcurrentSyncOpeartion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcurrentSyncOpeartion.swift; sourceTree = "<group>"; };
 		88DF74722B15D804001D0BB0 /* Queue.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Queue.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88DF74752B15D804001D0BB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88DF74772B15D804001D0BB0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				88DF74772B15D804001D0BB0 /* SceneDelegate.swift */,
 				88DF74792B15D804001D0BB0 /* ViewController.swift */,
 				884F12A32B16124D008F1A73 /* SyncOperations.swift */,
+				884F12A52B16150B008F1A73 /* ConcurrentSyncOpeartion.swift */,
 				88DF747E2B15D806001D0BB0 /* Assets.xcassets */,
 				88DF74802B15D806001D0BB0 /* LaunchScreen.storyboard */,
 				88DF74832B15D806001D0BB0 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				884F12A42B16124D008F1A73 /* SyncOperations.swift in Sources */,
+				884F12A62B16150B008F1A73 /* ConcurrentSyncOpeartion.swift in Sources */,
 				88DF747A2B15D804001D0BB0 /* ViewController.swift in Sources */,
 				88DF74762B15D804001D0BB0 /* AppDelegate.swift in Sources */,
 				88DF74782B15D804001D0BB0 /* SceneDelegate.swift in Sources */,
